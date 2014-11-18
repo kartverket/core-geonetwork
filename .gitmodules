@@ -3,7 +3,7 @@
 	url = https://github.com/camptocamp/webspecs.git
 [submodule "geoserver"]
 	path = geoserver
-	url = https://github.com/geonetwork/core-geoserver.git
+url=https://github.com/kartverket/core-geoserver.git
 [submodule "e2e-tests/chromedriver"]
 	path = e2e-tests/chromedriver
 	url = https://github.com/geonetwork/chromedriver.git
